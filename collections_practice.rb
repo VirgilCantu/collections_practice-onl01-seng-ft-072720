@@ -49,7 +49,7 @@ def add_s(string_array)
   string_array.each_with_index do |string, index|
     if index == 1
     else string[-1] + "s"
-      binding.pry
+      #binding.pry
     end
   end
 end
