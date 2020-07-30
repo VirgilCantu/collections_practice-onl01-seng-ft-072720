@@ -41,5 +41,5 @@ def find_a(string_array)
 end
 
 
-def sum_array()
+def sum_array(interger_array)
 end
