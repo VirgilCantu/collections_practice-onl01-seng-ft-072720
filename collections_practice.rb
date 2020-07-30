@@ -47,7 +47,8 @@ end
 
 def add_s(string_array)
   string_array.each_with_index do |string, index|
-    if string
+    if index == 1
+      break
 
     end
   end
