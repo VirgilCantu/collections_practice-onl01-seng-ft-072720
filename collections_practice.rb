@@ -39,3 +39,7 @@ end
 def find_a(string_array)
   string_array.select {|string| string.start_with?("a")}
 end
+
+
+def sum_array()
+end
