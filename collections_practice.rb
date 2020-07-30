@@ -34,3 +34,6 @@ def kesha_maker(string_array)
     kesha_strings << name[2] = "$"
   end
 end
+
+
+def find_a
