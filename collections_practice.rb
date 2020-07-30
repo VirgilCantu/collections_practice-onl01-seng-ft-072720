@@ -47,4 +47,8 @@ end
 
 def add_s(string_array)
   string_array.each do |string|
+    if
+      
+    end
+  end
 end
