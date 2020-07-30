@@ -46,9 +46,9 @@ def sum_array(interger_array)
 end
 
 def add_s(string_array)
-  string_array.each do |string|
-    if
-      
+  string_array.each_with_index do |string, index|
+    if string
+
     end
   end
 end
