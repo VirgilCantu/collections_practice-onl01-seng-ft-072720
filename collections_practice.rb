@@ -42,4 +42,5 @@ end
 
 
 def sum_array(interger_array)
+  interger_array.inject(:+)
 end
