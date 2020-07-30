@@ -38,8 +38,4 @@ end
 
 def find_a(string_array)
   string_array.selec {|string| string.start_with?("a")}
-
-
-
-
 end
