@@ -32,7 +32,5 @@ def kesha_maker(string_array)
   kesha_strings = []
   string_array.each do |name|
     kesha_strings << name[2] = "$"
-    #binding.pry
   end
-  kesha_strings
 end
